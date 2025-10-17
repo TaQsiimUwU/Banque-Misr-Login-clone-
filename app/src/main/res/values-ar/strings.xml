@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Banque Misr Login clone</string>
+    <string name="language_button">English</string>
+    <string name="bank_logo_description">شعار البنك</string>
+    <string name="username_label">اسم المستخدم</string>
+    <string name="password_label">كلمة المرور</string>
+    <string name="hide_password_description">إخفاء كلمة المرور</string>
+    <string name="show_password_description">إظهار كلمة المرور</string>
+    <string name="password_length_error">يجب أن تتكون كلمة المرور من 8 أحرف على الأقل</string>
+    <string name="forgot_password_link">نسيت اسم المستخدم/كلمة المرور؟</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="need_help_prompt">هل تحتاج إلى مساعدة؟ </string>
+    <string name="contact_us_link">اتصل بنا</string>
+
+    <string name="menu_products">منتجاتنا</string>
+    <string name="menu_exchange">أسعار الصرف</string>
+    <string name="menu_security">نصائح أمنية</string>
+    <string name="menu_atm">أقرب فرع أو صراف آلي</string>
 </resources>

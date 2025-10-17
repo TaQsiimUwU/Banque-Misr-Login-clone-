@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Banque Misr Login clone</string>
+    <string name="app_name" translatable="false">Banque Misr Login clone</string>
+    <string name="language_button">العربية</string>
+    <string name="bank_logo_description">Bank Logo</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="hide_password_description">Hide password</string>
+    <string name="show_password_description">Show password</string>
+    <string name="password_length_error">Password must be at least 8 characters</string>
+    <string name="forgot_password_link">Forgot username/password?</string>
+    <string name="login_button">Login</string>
+    <string name="need_help_prompt">Need help? </string>
+    <string name="contact_us_link">Contact us</string>
+
+    <string name="menu_products">Our products</string>
+    <string name="menu_exchange">Exchange rate</string>
+    <string name="menu_security">Security tips</string>
+    <string name="menu_atm">Nearest branch or ATM</string>
 </resources>
